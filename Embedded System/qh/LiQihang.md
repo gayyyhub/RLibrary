@@ -24,3 +24,4 @@
 		*但是jar包的安装P事也很多，在ubantu上找Java home，在Java home下找jre/lib/，但是到现在还没找到
 		*Java课设确定了要做live2D了，仔细看了之后也感觉live2D需要的代码量不少，jsoup爬虫+敏感词识别也有小幅进展
 		*今天好热，晒太阳了（×
+		*windows powershell 兼容linux 命令了（
