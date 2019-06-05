@@ -2,7 +2,7 @@
    
 sockaddr  和  sockaddr_in 的介绍和区别
 
-###sockaddr结构体
+### sockaddr结构体
 ```c
 struct sockaddr 
 	{  
@@ -14,7 +14,7 @@ struct sockaddr
 	但是sockaddr把目标地址和端口混在一起  所以用  sockaddr_in  (in代表internet
 ```
 
-###sockaddr_in结构体
+### sockaddr_in结构体
 ```c
 struct sockaddr_in 
 	{ 
