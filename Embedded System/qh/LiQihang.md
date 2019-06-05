@@ -25,3 +25,8 @@
 		*Java课设确定了要做live2D了，仔细看了之后也感觉live2D需要的代码量不少，jsoup爬虫+敏感词识别也有小幅进展
 		*今天好热，晒太阳了（×
 		*windows powershell 兼容linux 命令了（
+
++190605	*白天几乎都在歇着，下午去了趟BOE创新赛培训会，要搞柔性屏指环。
+		*晚上终于干了点正事，发现昨天的jar是在CentOS下用的，Ubantu和CentOS下的JAVA_HOME结构不一样（期间还怀疑是不是Java版本不对
+		*那么Live2D的模型资源什么时候找呢
+
