@@ -1,4 +1,4 @@
-##MongoDB的基本操作
+## MongoDB的基本操作
 先在MongoDB shell下通过 mongo命令 登陆到数据库
 
 ### 查看数据库、集合、用户信息、切换等
