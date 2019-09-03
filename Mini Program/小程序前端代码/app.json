@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/search/search",
+    "pages/detail/detail",
+    "pages/fav/fav"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#000000",
+    "navigationBarBackgroundColor": "#0094ff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh":true
+  },
+  "tabBar": {
+    "color": "#b2b2b2",
+    "selectedColor": "#353535",
+    "borderStyle": "black",
+    "backgroundColor": "white",
+    "list": [{
+      "pagePath": "pages/search/search",
+      "iconPath": "src/img/search_off.png",
+      "selectedIconPath": "src/img/search_on.png",
+      "text": "搜索书籍"
+    }, {
+      "pagePath": "pages/fav/fav",
+      "iconPath": "src/img/fav_off.png",
+      "selectedIconPath": "src/img/fav_on.png",
+      "text": "借阅记录"
+    }]
+  },
+  "debug": false
+}
